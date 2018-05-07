@@ -1,4 +1,4 @@
 # ci
 # Ciserver
 
-**TODO: Add description**
+Pull request bot. Assign reviewers based on commit messages.
